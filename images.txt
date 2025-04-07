@@ -4,3 +4,4 @@ opengrok/docker
 --platform=linux/arm64 xiaoyaliu/alist
 
 postgres:15-alpine
+nginx:latest
